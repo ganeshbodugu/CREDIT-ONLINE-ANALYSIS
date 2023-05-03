@@ -3,6 +3,7 @@
 In this project we are working on a loan dataset, customer credit card dataset and a bank transaction dataset by using Apache Spark, which is a data processing framework that can quickly perform processing tasks on very large data sets, and can also distribute data processing tasks across multiple computers, either on its own or in tandem with other distributed computing tools. Using these datasets and Spark SQL we have created various use cases pertaining to real life scenarios in banking.
 
 # TOOLS AND TECHNOLOGIES
+
 SPARK
 HDFS
 DATAFRAMES
